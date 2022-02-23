@@ -1,0 +1,442 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gods justice against murther, or The bloudy apprentice executed Being an exact and true relation of a bloudy murther committed by one Thomas Savage an apprentice to a vinter at the ship tavern in Ratliffe upon the maid of the house his fellow servant, being deluded thereunto by the instigations of a whore. How and in what sort he performed the same, how he robbed his master, and was persued and taken by hue and cry at Coome farm betwixt Greenwich and VVoolwich. Sent to Newgate, afterwards arrained and cast at Justice Hall in the Old Bayly, condemned to be hanged over against the place where he committed the fact, and being once hanged and cut down afterwards reviving again, was the second time hanged till he was dead, on Wednesday October 28 1668.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42936</idno>
+            <idno type="STC">Wing G959A</idno>
+            <idno type="STC">ESTC R216469</idno>
+            <idno type="EEBO-CITATION">99828200</idno>
+            <idno type="PROQUEST">99828200</idno>
+            <idno type="VID">32627</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42936)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32627)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1865:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gods justice against murther, or The bloudy apprentice executed Being an exact and true relation of a bloudy murther committed by one Thomas Savage an apprentice to a vinter at the ship tavern in Ratliffe upon the maid of the house his fellow servant, being deluded thereunto by the instigations of a whore. How and in what sort he performed the same, how he robbed his master, and was persued and taken by hue and cry at Coome farm betwixt Greenwich and VVoolwich. Sent to Newgate, afterwards arrained and cast at Justice Hall in the Old Bayly, condemned to be hanged over against the place where he committed the fact, and being once hanged and cut down afterwards reviving again, was the second time hanged till he was dead, on Wednesday October 28 1668.</title>
+               </titleStmt>
+               <extent>[3], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for John Clarke at the Harp and Bible in West Smith-Field,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1668]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>With a frontispiece woodcut.</note>
+                  <note>Text begins on verso of title page, [A]2.</note>
+                  <note>"Thomas Savage the principal in the murther, according to the sentence aforesaid was Wednesday, October the 28 conveyed in a cart from Newgate to the place of execution appointed for him, being over against his master's house, at the sign of the ship in Ratcliff-cross, ..".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Savage, Thomas, d. 1668 --  Early works to 1800.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+               <term>Murder --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:32627:1"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of a hanged man</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:32627:1" rendition="simple:additions"/>
+            <p>GODS Juſtice againſt Murther, OR The Bloudy Apprentice Executed.</p>
+            <p>Being an Exact and true Relation of a Bloudy Murther committed by one <hi>Thomas Savage</hi> an Apprentice to a Vint<g ref="char:EOLhyphen"/>ner at the ſhip Tavern in <hi>Ratliffe</hi> upon the Maid of the Houſe his fellow Servant, being deluded thereunto by the inſtigati<g ref="char:EOLhyphen"/>ons of a Whore. How and in what ſort he performed the ſame, how he Robbed his Maſter, and was perſued and taken by Hue and Cry at <hi>Coome</hi> Farm be<g ref="char:EOLunhyphen"/>twixt <hi>Greenwich</hi> and <hi>VVoolwick,</hi> Sent to <hi>Newgate,</hi> afterwards Arrained and Caſt at Juſtice Hall in the <hi>Old Bayly,</hi> condem<g ref="char:EOLhyphen"/>ned to be hanged over againſt the place where be committed the fact, and b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing once hanged and cut down afterwards reviving again, was the ſecond tim<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> han<g ref="char:EOLhyphen"/>ged till he was dead, on Wedneſday <hi>October</hi> 28. 1668.</p>
+            <q>
+               <bibl>Exod. 21. v. 12.</bibl>
+               <p>He that ſmiteth a man ſo that he dye ſhall ſurely be put to death.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>John Clarke</hi> at the Harp and Bible in Weſt <hi>Smith-Field.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:32627:2"/>
+            <head>Gods Juſtice againſt Murther.</head>
+            <p>OF all crimes committed by Mortals here on earth, there is none which crys to heaven for louder vengeance then that ſin of wilful Murther, when men play the Beaſts and in humanly gore each other to death, making the world a ſhambles for humane ſlaughters, by deſacing Gods I<g ref="char:EOLhyphen"/>mage in others, murdering their own ſouls, the Vſhers to which ſin is commonly cove<g ref="char:EOLhyphen"/>touſneſs, and whoredom, <hi>Covetouſneſs,</hi> faith St. Paul, <hi>is the root of all evil,</hi> and a <hi>Whore</hi> ſaith Solomen, <hi>will hunt for the pretious life of a man,</hi> for thoſe who proſti<g ref="char:EOLhyphen"/>tute their be<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tes to all comers, will not fear to proſtitute their ſouls to all vices, &amp; thus covetouſneſs provokes whoredom, &amp; whore<g ref="char:EOLhyphen"/>dom cauſes Murther to be committed, one ſin deawing another as it were with Cart-Ropes, when the final concluſion is the de<g ref="char:EOLhyphen"/>ſtruction both of body purſe and rep<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tation, and (if God be not the more merciful) the eternal puniſhment of body and ſoul in hell<g ref="char:EOLhyphen"/>fire.</p>
+            <p>
+               <pb n="2" facs="tcp:32627:2"/>
+Youthful extravagancies have common<g ref="char:EOLhyphen"/>ly had conſequences, and more periſh by too much indulgence, then too much ſeverity, men abuſing their liberty, ſo that where diſcipline is neglected, all vices flow in wich a monſtrous impetuoſity.</p>
+            <p>That which we ſhall now relate is a ſad example for the evidencing of theſe tenths, in the perſon of one <hi>Thomas Savage,</hi> a Vint<g ref="char:EOLhyphen"/>ners man, at the ſign of the <hi>Ship</hi> at <hi>Rateliff-Croſs,</hi> in the Pariſh of <hi>Stepacy,</hi> near <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> who by the inſtigation of a Whore, blinded with luſt, was wrought upon to Murther his fellow-ſervant, who indeavou<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d to hinder him in the Robbing of his Ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er, the ſtory whereof followeth.</p>
+            <p>This <hi>Thomas Savage</hi> was born of honeſt Parentage, his Father dying when he was young his Mother ma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ried again, to one who proved a loving ſtep-father to the Son as a careful Husband to the Mother, and both of them by their care and coſt endea<g ref="char:EOLhyphen"/>vouring to have their ſon well educated, which they expreſſed in bringing him up to Schooling whereby he might be fit and the more capable of a Trade; which afterwards (comming to more maturer years) they be<g ref="char:EOLhyphen"/>ſtowed upon him, placing him with one <hi>Mr,
+<pb n="3" facs="tcp:32627:3"/>Collins</hi> a Vintner at the ſign of the <hi>Ship,</hi> at <hi>Ratcliff Croſs,</hi> where he continued with much love and good will of his Maſter and follow-ſervants for ſome ſpace of time, though that was likewiſe attended with ſome <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>outh<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l extravagancies, for which his Maſter would much blame him.</p>
+            <p>Thus you ſée here was an indeavor to have had th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ds of vertue, and good living implanted in his heart, but where grace wanteth, all outward means will fail, <hi>Paul</hi> may plant and <hi>Apollos</hi> water, but it is God alone that <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> give the increaſe, young perſons like t<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>s are flexible, and as war fi<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ceive any impreſſion that is put up<g ref="char:EOLhyphen"/>on th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> more eaſily inducible to that which i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had then good, by reaſon of the de<g ref="char:EOLhyphen"/>pra<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neſs of our nature. He hapned to light into ſome Whore-houſes, the nurſeries of wickedneſs, and ſéed plots of all filthineſs, pro<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hanene<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and debauchery whatſoever. Sin is chargable, and many perſons ruine their eſtates out of the love they bear to fil<g ref="char:EOLhyphen"/>thy v<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ces, the<gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> is forced to maintain luſt, and ſo the whore hath it, ſhe cares not by what means or from whom, by ſuch means w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s this young man brought to ruine, for a wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re ſeldom leaves a man till ſhe hath
+<pb n="4" facs="tcp:32627:3"/>brought him either to the Hoſpital, or the Gallows.</p>
+            <p>It ſo hapned that one Sunday morning going with his Maſter to the Church he gave him the ſlip, and inſtead of the houſe of God, rambles to the ſink of ſin, the Baw<g ref="char:EOLhyphen"/>dy-houſe, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here he takes his pleaſure, his whore is plyant to him, they drink and dally without controul, but this full of plea<g ref="char:EOLhyphen"/>ſure cauſes an ebb of Money, he complains <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o her of the emptyneſs of his pockets, this was to go to the Devil for counſel and who a better ſpokes-woman for him then a whore, ſhe tells him he was a fool to have ſo little, and his Maſter ſo much, why ſhould locks and bolts hinder him, a picklock or a Hammer would remedy that, he replys that he was never left at home alone, the Maid was with him, and therefore the b<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>neſs was not ſenſible, ſhe returns anſwer <hi>knock her on the Head,</hi> a ſure way to find employ<g ref="char:EOLhyphen"/>ment for the Hangman, as be afterwards too ſadly felt to his coſt.</p>
+            <p>Thus we plainly ſée that a whore is the high-way to the Devil, he that looks on her is entring on the Road, he that talks to her mends his pace, and he that injoys her is at his Iourneys end. O how many baits
+<pb n="5" facs="tcp:32627:4"/>and alurements have they to ſin, uſing pa<gap reason="illegible" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>ing to ſet forth their Corpſes of diſ<g ref="char:EOLhyphen"/>eaſes, which having been long in the Chy<g ref="char:EOLhyphen"/>rurgions hands, is ready to drop in piece<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> through rottenneſs, the love that they pre<g ref="char:EOLhyphen"/>tend to bear to men, is worſe then the dead<g ref="char:EOLhyphen"/>lieſt hatred of men, for where they kiſs they kill, their breath is more venomous then a Dragons, their ſight more deadly then a Baſilisks, and their embraces more dangerous then thoſe of a Serpents.</p>
+            <p>But to return where we left, time poſt<g ref="char:EOLhyphen"/>ing away, calls to the Prentice to haſten home, which he does, but findes his Maſter at dinner already, who queſtions him where he had been ſo long? the Devill is a ready prompter of lies, he returns him anſwer that he was at Church, his Maſter miſdoubting the truth of his report, tells him that for his ſo late ſtaying in the forenoon, he ſhould keep at houre in the afternoon, this was as he would have it, the Maid and he are appointed to ſtay, the reſt are gone to Church, Now he begins to put the Whores inſtructions in execution, Money he will have though he venture his neck for't.</p>
+            <p>And now his chief endeavou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is to fall out with the Maid, to effect this he goes to
+<pb n="6" facs="tcp:32627:4"/>make clean his Maſters dirty ſhooes on the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ew waſhed Dreſſer: this angers her much and ſome croſs words paſſes betwixt <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m a Hammer lying by he catches it up ſtrikes at her with it and knocks her down, the bloud gaſhing out of the wound aboun<g ref="char:EOLhyphen"/>dantly, ſhe crying out be redoubles his blows ſo long untill he had killed her, and then laid a diſh clout upon her wound which guſhed forth in ſtreams of purple gore.</p>
+            <p>Then with the ſame Hammer he brak open his Maſters Cupboard, from whence he takes ſixty two pounds, and with it re<g ref="char:EOLhyphen"/>turns to his Whore again: where having ſpent ten pence he informs her of what he had done. She knowing the danger he had brought himſelf into, like a right Whore indéed, forſakes him in his greateſt extre<g ref="char:EOLhyphen"/>mity and re<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>es to give him entertain<g ref="char:EOLhyphen"/>ment. Now knows he not what to d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, what courſe to take, like the firſt Murtherer <hi>Cain</hi> he muſt become a Runnagate upon the earth, fearful that any one which ſhould finde him would apprehend him, he having the brand of a guilty Conſcience ſticking within him, <hi>London</hi> was to hot for him, he therefore croſſes the water and goes to<g ref="char:EOLhyphen"/>wards <hi>Greenwich</hi> accompanted onely with
+<pb n="7" facs="tcp:32627:5"/>fear, horror, and guilt of Conſcience.</p>
+            <p>In the mean time (Sermon being ended) his Maſter returns home, and finding the doo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s ſhut knocks and calls, but receives no anſwer, after much fruitleſs knocking, the door in forced open, where ent<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing he findes his Maid murthered and himſelf Robbed; this ſtrikes him into much grief and aſto<g ref="char:EOLhyphen"/>niſhment, but perceiving ſome Life in the Maid, they ſtrive to recover her but in vain who onely living ſo long as to detect the the Murtherer, (God enabling her ſo much that ſuch wickedneſs might be the better found out) <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he then yielded to Fate, and ſurrendred <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> her innocent ſoul to death.</p>
+            <p>H<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reupon immediately Hue and Cryes are ſent out after the Murtherer, who com<g ref="char:EOLhyphen"/>min<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <hi>Greenwich,</hi> went t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> one <hi>Charltons</hi> a Watermans houſe to drink, laying the Mony down by him, where having no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> long béen, but hearing ſome whiſpe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ings of a murther do<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e at <hi>Stepney,</hi> and a Hue and Cry after the murtherer, guilt of Conſcience and fear ſo po<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s him, that leaving the Mony behind him, he quits the Chamber where he was, and b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>takes himſelf to his heels. Weary <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd diſmaid with the guilt he carried about him, a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Coom</hi> Farm betwixt <hi>Green<g ref="char:EOLhyphen"/>wich</hi>
+               <pb n="8" facs="tcp:32627:5"/>and <hi>Woolwich</hi> he again betakes him<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elf to an Ale-houſe, where ſitting down <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd calling <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or a pot of Béer, he preſently falls faſt a ſleep, where the Hue and Cry overtook him, from whence he was guarded towards <hi>London,</hi> and had in examination before Major <hi>Manley</hi> one of His Majeſties Iuſtices of the Peace for the County of <hi>Middleſex,</hi> where he fréely confeſſed the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>act in manner as is related before unto <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou, detecting the Whore that enticed him <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n to his deſtruction, who with her Spiders Web of wickedneſs had intangled him in her Nets, whereupon he was Committed to <hi>Newgate,</hi> and a Warrant being alſo iſſued out for her, ſhe was taken, examined before a Iuſtice, and committed alſo unto <hi>Newgate.</hi>
+            </p>
+            <p>Thus you ſee ſin goes before, and ſhame follows after, the danger of keeping had Company, eſpecially Whores, thoſe in<g ref="char:EOLhyphen"/>ſtruments of the Devill, the bane of youth and Lyme-twigs o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ckedneſs, the center of all miſchiefes, and the Gulphs that de<g ref="char:EOLhyphen"/>vours the lives, eſtates, and reputati<g ref="char:EOLhyphen"/>ons of all that uſe them.</p>
+            <p>At the Seſsions houſe in the <hi>Old-Bayly October 24. 1668.</hi> he had his Tryall,
+<pb n="9" facs="tcp:32627:6"/>where confeſſing his fact ſentence of deat<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was paſſed upon him to be executed again <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the place where he committed the fact. <hi>Han<g ref="char:EOLunhyphen"/>nah Blay</hi> alſo who had perſwaded him t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this execrable act, by bidding him to knock the Maid on the head, was alſo condemned to be executed at <hi>Tyburn,</hi> but pleading tha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhe was with child ſhe was for the preſent reprieved.</p>
+            <p>But <hi>Thomas Savage</hi> the principal in the murther, according to the ſentence a<g ref="char:EOLhyphen"/>foreſaid was <hi>Wedneſday, October</hi> the 28 conveyed to a Cart from <hi>Newgate</hi> to the place of Execution appointed for him, being over againſt his Maſters houſe, at the ſign of the <hi>Ship</hi> in <hi>Ratcliff-croſs,</hi> where was aſſembled a great concourſe of people to be ſpectators of his ſad Cataſtrophe, he ſéemed to be very peninent, deſiring all peo<g ref="char:EOLhyphen"/>ple, eſpecially young perſons to take warn<g ref="char:EOLhyphen"/>ing by him, what company they addicted themſelves unto, which was either the bane or making of youth, he gave them an <hi>Item</hi> as near as they could to get into ſuch ſer<g ref="char:EOLhyphen"/>vices where the word of God was conſtant<g ref="char:EOLhyphen"/>ly read and practiſed, to beware of whores and whore-houſes, thoſe ſeed plots of wick<g ref="char:EOLhyphen"/>edneſs, being ſuch <hi>labyrinths</hi> of ungodli<g ref="char:EOLhyphen"/>neſs,
+<pb n="10" facs="tcp:32627:6"/>that nothing but the Clue of Gods grace can bring them forth again, when they are once entred into them. With many other words to the like purpoſe after which he was turned off the Ladder, where having hung ſome ſpace of time he was cut down and carried to the ſign of the <hi>Roſe</hi> by <hi>Ratcliff,</hi> where his body was laid upon a Table, divers Seamen being in the Room, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut long he had not lain when they might <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erceive ſome ſigns of life in him, where<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon having a fire kindled, warming their hands they bathed his body with ſpirits, and an Apothecary being in the room deſired to have him in a warm bed, when preſently he began to move his arms and legs, with ſe<g ref="char:EOLhyphen"/>veral other ſymptoms of a living creature. In the mean ſpace ſome Officers belonging to <hi>Newgate,</hi> going to view the dead corps, but finding it in ſuch a living poſture, one of them poſts to the Sheriff, to acquaint him with it, whom he found at Dinner, who ſud<g ref="char:EOLhyphen"/>denly haſted thither, the Officer by the way méeting alſo accidentally with the Executt<g ref="char:EOLhyphen"/>ion<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, took him along with him, whereby <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he way we may note, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ew every thing <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onſentred together, for the ſpéedier execu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion of Gods Iuſtice upon this ſin of wilful
+<pb n="11" facs="tcp:32627:7"/>Murther, for ſéeing all things were thought to be done before, it was accidental for the Officer to méet with either of them bo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h juſt ſo on a ſudden,</p>
+            <p>When the Sheriffe came to the ſign of the Roſe aforeſaid, he found <hi>Savage</hi> ſitting in the bed, perfectly living, but wanting the uſe of ſpeech, though <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> was ju<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ged <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot of ſence or reaſon; wher<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n exec<gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his ſentence of Condemna<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>n he comma<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d him to be put in a Blank<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t and <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in a Cart, it being the ſpac<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> four ho<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the time of his firſt ha<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>g, to his ſecond going to Execution, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e did ſtrive <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd ſtr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>gle ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me what both at his <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ay <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd to the Cart, giving a kick to t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> executio<g ref="char:EOLhyphen"/>ner and one of the Baylive<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> on the mouth, but ſoon he was had to the Gibbet aforeſaid, and there hanged till he was quite dead.</p>
+            <p>And this was the end of <hi>Thomas Savage</hi> one who by the courſe of Nature might have lived many years had he not by his wicked courſes cauſed the hand of Iuſtice to ſhorten his days. He was ſaid to be very penitent in Priſon, free in the confeſsion of the horridneſs of his crime, earneſtly im<g ref="char:EOLhyphen"/>ploring Gods mercy for the pardon of the
+<pb n="12" facs="tcp:32627:7"/>ſame, and no doubt but God who is the God of mercy had compaſsion on him, his end may be a warning to others for com<g ref="char:EOLhyphen"/>mitting the like, leaſt trying the ſame ſins they taſte of the ſame puniſhments that he did.</p>
+            <p>His Corps was afterward conveyed to <hi>Iſlington,</hi> the place where his ſorrowful Mother dwelt, and that night there buried, notwithſtanding the idle reports of ſome, who (forſooth) would have him to be alive ſtill, ſuch idle rumours when they are once got into the nodles of the more idler multi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ude, gain ſtill by report, and like ſnowbals encreaſe with being roled from one to a<g ref="char:EOLhyphen"/>nother.</p>
+            <p>
+               <hi>Hannah Blay</hi> who had given him that wicked Counſell of knocking the Maid on <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he head, remains ſtill a condemned pri<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oner in <hi>Newgate.</hi> She pleading that ſhe was with child, which hath gained her a re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rieve for a time.</p>
+            <p>And thus we may ſée the ill effects that <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n produces, for as the Apoſtle ſaith, the <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eward of ſin is death,</hi> which though it ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y times ſcapes the death of the body, yet ever falls to kill the ſoul the<gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> more nobler art, in compariſon of which the body is but
+<pb n="13" facs="tcp:32627:8"/>a méer dunghil, yet if we look alſo upon th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> puniſhments that it brings on the body, w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhall find enough there to work in us a de<g ref="char:EOLunhyphen"/>teſtation of it; how doth it impair our healt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> conſume our riches? deſtroy our credits? making us a ſcorn to our foes and a de<g ref="char:EOLunhyphen"/>teſtation to our friends, even wicked me<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hating thoſe in whom they ſee their ow<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vices predominant.</p>
+            <p>But for this bloody ſin of Murther it is crime of a crimſon dye, which nothing bu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the tears of true repentance, can waſh of t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> guilt of it, from off the ſoul, yet man ha<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> no greater enemy to himſelf then manki<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> bi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds, beaſts and fowls, go lovingly tog<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>gether in Troops and Herds not hurtin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> each other, oh let us then learn at leaſt much civility from thoſe which we cou<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> beaſts, leaſt by our bloody actions at the d<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of Iudgement we be found to be great<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> beaſts our ſelves.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:32627:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
